@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  place-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: system-ui;
+}
+
+button:hover {
+  cursor: pointer;
+}
